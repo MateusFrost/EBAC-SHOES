@@ -169,6 +169,10 @@ section .produtos {
 
 @media screen and (max-width: 767px) {
 
+    button {
+        padding: 10px;
+    }
+
     header li {
         display: flex;
       
